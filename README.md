@@ -1,4 +1,6 @@
-## 👋 Hi, I'm J<hr> ![](https://komarev.com/ghpvc/?username=echiji)
+![](https://komarev.com/ghpvc/?username=echiji)
+
+## 👋 Hi, I'm J<hr>
 
 <center><h3><b>I'm a simple person who basically does nothing on life.</b></h3></center>
 
@@ -27,3 +29,5 @@ Well, what should I put here. Welp, nothing I guess.
 )
 ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
 )
+
+<br><br><br>
