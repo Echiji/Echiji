@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm J<hr>
 
-<center><h3><b>I'm a simple person who basically does nothing on life.</b></h3></center>
+<h3 align="center"><b>I'm a simple person who basically does nothing on life.</b></h3>
 
 <br>
 
