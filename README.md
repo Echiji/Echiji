@@ -7,18 +7,14 @@
 <br>
 
 ### About me<hr>
-Well, what should I put here. Welp, nothing I guess.
 
-<br>
+Nothing, Blank, like her thoughts<br>
+![Chise](https://cdn.discordapp.com/attachments/962786690466975774/1059061723493048380/chise.png)
 
 ### Hobbies<hr>
-- Playing games 🎮
-- Translating Doujins 👀
-- Watching or reading movies/books 📚
-- Creating useless stuff that has no purpose or benefit for people 💀
-- Listening to Music 🎵
+![Gura Staring At You](https://cdn.discordapp.com/attachments/962786690466975774/1059062783481761802/gura-stare.png)
 
-<br>
+
 
 ### IDE<hr>
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
